@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -24,7 +24,7 @@
   
   <div id="menuContainer"></div>
 
-  <a href="table7_page7.html" class="nav-btn">View Table 7 Cart & Total (Page 7) &rarr;</a>
+  <a href="https://kshitij-bhuwania.github.io/table-7-checkout/" class="nav-btn">View Table 7 Cart & Total (Page 7) &rarr;</a>
 
   <script>
     const TABLE_KEY = "cart_table_7";
