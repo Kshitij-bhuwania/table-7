@@ -1,7 +1,7 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>Table 1 - Menu</title>
+  <title>Table 7 - Menu</title>
   <style>
     body { font-family: Arial, sans-serif; margin: 20px; background: #f8f9fa; }
     h1 { color: #2c3e50; text-align: center; }
@@ -35,14 +35,14 @@
 </head>
 <body>
 
-  <h1>🔴 Table 1 - Select Items</h1>
+  <h1>🔴 Table 7 - Select Items</h1>
   
   <div id="menuContainer"></div>
 
-  <a href="https://kshitij-bhuwania.github.io/table-1-checkout/" class="nav-btn">View Cart & Checkout &rarr;</a>
+  <a href="https://kshitij-bhuwania.github.io/table-7-checkout/" class="nav-btn">View Cart & Checkout &rarr;</a>
 
   <script>
-    const TABLE_KEY = "cart_table_1";
+    const TABLE_KEY = "cart_table_7";
     // Store dropdown open states so re-rendering doesn't close active categories
     const activeCategories = {};
 
